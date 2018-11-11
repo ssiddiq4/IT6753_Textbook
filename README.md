@@ -1,4 +1,8 @@
-# Initial page
+---
+description: a page that will introduce the textbook for the class
+---
+
+# Cover Page
 
 Here is a video 
 
