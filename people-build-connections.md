@@ -1,5 +1,8 @@
 ---
-description: High overview on "People Build Connections"
+description: >-
+  High overview on "People Build Connections".This section will consist of a
+  professor generated content that they will want the students to read for the
+  class.
 ---
 
 # People Build Connections

@@ -1,0 +1,8 @@
+# Method of Approach
+
+Every great research paper begins with an idea. This idea sparks into a topic, which can then be expanded upon in an outline, a thesis statement, and research. Having written my outline, I will begin researching pertinent subtopics within my topic in order to gain more knowledge through my investigation. Thus, I will be able to expand more upon my chosen topic and write in a clear and concise manner.
+
+The goal of my research is to create an in-depth analysis of BookStack, an electronic resource platform. My research will in turn influence the recommended list of alternatives to the current course textbook. I will also research the pros and cons of open educational resources as a whole and how they are utilized in higher education. I will begin by making a topical search via Kennesaw State University’s library homepage. From there I will attempt to find resources that are scholarly and peer-reviewed, to assure myself that I am only reading the best and the brightest, the reliable and credible. I will then pour over these sources for information pertaining to my topic and learn something new along the way.
+
+Once I have perused enough sources to write comfortably about my topic, I will commence with my synthesis. I will take information, quotes, and ideas from my sources, digest them, and spit them back onto the page in my image. I will use these sources to bolster my thoughts and ideas, giving credit where credit is due. This is my chance to show the reader the information available through a research investigation coupled with my thoughts and ideas based on the sources, the current textbook, and BookStack itself. Finally, I will acknowledge my teammates and others that have helped shape and mold this paper.
+

@@ -2,7 +2,7 @@
 description: a page that will introduce the textbook for the class
 ---
 
-# Cover Page
+# Welcome Page
 
 Here is a video 
 
