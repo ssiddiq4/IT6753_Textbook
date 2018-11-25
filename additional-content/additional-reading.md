@@ -2,7 +2,7 @@
 description: This section is populated from content from fellow students.
 ---
 
-# Additional Reading
+# Submitting an Article
 
 To submit content, follow the steps outlined below.
 
