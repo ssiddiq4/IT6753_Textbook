@@ -19,4 +19,5 @@
   * [References & Acknowledgements](additional-content/how-bookstack-stacks-up-a-textbook-replacement-recommendation/references-and-acknowledgements.md)
 * [Blockchain: Security Issues and Challenges](additional-content/blockchain-security-issues-and-challenges/README.md)
   * [References](additional-content/blockchain-security-issues-and-challenges/references.md)
+* [Microsoft Teams](additional-content/microsoft-teams.md)
 
