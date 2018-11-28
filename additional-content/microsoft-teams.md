@@ -1,8 +1,8 @@
 ---
-description: How to use Microsoft Teams
+description: 'Author: Brandon Holiday. Published Nov. 27, 2018'
 ---
 
-# Microsoft Teams
+# Microsoft Teams: How to
 
 In 2018, Microsoft released its Microsoft Teams platform, a direct competitor to the ever-popular Slack or HipChat. These apps allow for an enterprise wide virtual workspace in which your teams can have conversations in a large public forum or create smaller private workspaces to discuss niche topics. They also incorporate video conferencing tools, external video embedding, file storage/sharing. Microsoft Teams shines as it incorporates all these features seamlessly into the Outlook 365 ecosystem.
 
