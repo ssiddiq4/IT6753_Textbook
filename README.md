@@ -1,20 +1,16 @@
 ---
-description: a page that will introduce the textbook for the class
+description: 'Author: Himaja Kailaswar. published December 03, 2018'
 ---
 
-# Welcome Page
+# Abstract
 
-Here is a video 
+This concept paper focuses on providing detailed overview of the advanced web area on “Electronic Magazine” which is based on the World Wide Web and mainly directs at creating an electronic magazine as online version of an already existing printed magazine. The magazine contains technical articles, case studies, application notes, product information, business and financial news, and a wide variety of other information relevant to the electronics industry. Like newspapers, magazines have been greatly influenced by the Internet. With so much information available online, advertisers and readers are accessing content on the internet, causing declines in both revenue and readership. The advent of Information Technology as a highly leveraged enabling tool for delivery of products and services has now redefined the fundamentals and changed the institutions and mechanisms of delivery forever.  
 
-{% embed url="https://www.youtube.com/watch?v=lLBKNfKaqxs&feature=youtu.be" %}
 
-Core concept for the class:
 
-1. Explain major concepts, tools, techniques, and methods of advanced web applications and services, from both the business-process and technology perspectives. 
-2. Apply best business models and practices, e.g., social networking and “freemium” charging, and development processes for the web including storage, retrieval and delivery of content on the web. 
-3. Compare proprietary and open source web development. 
-4. Recommend possible future web business processes, technology, applications and/or services. 
-5. Plan, design, and develop either: 
-   * A significant project implementing an advanced web site, application or service. 
-   * A case study of an existing and advanced web site, application or service.
+
+
+
+
+
 
